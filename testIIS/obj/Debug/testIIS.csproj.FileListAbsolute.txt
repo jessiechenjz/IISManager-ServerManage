@@ -1,0 +1,6 @@
+D:\Ctrip_Hotel\study_demo\testIIS\testIIS\bin\Debug\testIIS.exe.config
+D:\Ctrip_Hotel\study_demo\testIIS\testIIS\bin\Debug\testIIS.exe
+D:\Ctrip_Hotel\study_demo\testIIS\testIIS\bin\Debug\testIIS.pdb
+D:\Ctrip_Hotel\study_demo\testIIS\testIIS\obj\Debug\testIIS.csprojResolveAssemblyReference.cache
+D:\Ctrip_Hotel\study_demo\testIIS\testIIS\obj\Debug\testIIS.exe
+D:\Ctrip_Hotel\study_demo\testIIS\testIIS\obj\Debug\testIIS.pdb
